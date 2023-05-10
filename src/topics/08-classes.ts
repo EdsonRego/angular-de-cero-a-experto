@@ -1,7 +1,4 @@
-import { Person } from './08-classes';
-
-
-
+//import { Person } from './08-classes';
 
 export class Person {
     // public name: string;
@@ -17,7 +14,7 @@ export class Person {
         public lastName: string, 
         private address: string = 'No Address'
         ){
-            
+
         }
 }
 
